@@ -108,7 +108,7 @@ The /secure endpoint requires header `X-API-Key: secret-api-key-123`.
 
 ### Run the full stack
 
-    git clone <your-repo-url>
+    git clone https://github.com/immabhay007/fastapi-monitoring.git
     cd new-age-fastapi-monitoring-demo
     docker compose up -d
 
@@ -319,5 +319,5 @@ Stored in screenshots/:
 
 ## 13. Author
 
-<Your Name>
-<Your Email>
+Abhay Kamble
+abhaykamble87@gmail.com
